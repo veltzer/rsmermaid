@@ -1,3 +1,5 @@
+//! rsmermaid: Rust version of mermaid.
+
 fn main() {
     println!("Hello, World!");
 }
